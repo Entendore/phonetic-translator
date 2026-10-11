@@ -1,0 +1,52 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+
+# Added by Git Repo Creator
+# Media, Archives, and AI Models
+*.7z
+*.aac
+*.avi
+*.blend
+*.flac
+*.flv
+*.gz
+*.iso
+*.jpeg
+*.jpg
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.png
+*.rar
+*.tar
+*.wav
+*.webm
+*.wmv
+*.zip
+# Python / Dev
+.env
+.env.local
+Thumbs.db
+*.tmp
+*.bak
+
+# Added by Git Repo Creator
+# GitHub Actions
+.github/
